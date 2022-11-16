@@ -1,0 +1,26 @@
+_repo: Neves-de-antanho_69343
+_version: 0.0.1
+creator:
+  author:
+    agent_name: António Maria José Sabugosa, de Melo César e Meneses
+    gutenberg_agent_id: '55218'
+    url: http://www.gutenberg.org/2009/agents/55218
+description: ''
+gutenberg_issued: '2022-11-13'
+identifiers:
+  gutenberg: '69343'
+language: pt
+pgterms:marc904: https://archive.org/details/nevesdeantanho00sabu/page/14/mode/2up
+pgterms:marc905: 20220226052807sabugosade
+pgterms:marc906: '1919'
+pgterms:marc907: PT
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'Portugal: Lisboa Portugalia,1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Neves de antanho
+url: http://www.gutenberg.org/ebooks/69343
